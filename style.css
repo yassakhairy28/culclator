@@ -44,3 +44,6 @@ form input[type="button"] {
 form input[type="button"].equal {
     width: 145px;
 }
+.ch {
+    color: #f6b06f;
+}
